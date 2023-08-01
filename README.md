@@ -59,19 +59,6 @@ The app must have the following functionalities
 <br/>
 
 </details>
-
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/Gallery/index.js`
-- `src/components/Gallery/index.css`
-- `src/components/ThumbnailItem/index.js`
-- `src/components/ThumbnailItem/index.css`
-</details>
-
 ### Quick Tips
 
 <details>
@@ -122,6 +109,3 @@ Use these files to complete the implementation:
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
